@@ -12,8 +12,8 @@ export default function Index() {
                 <div className="mx-auto mb-8 lg:mb-16">
                     <h2 className="mb-4 text-4xl tracking-tight font-bold md:text-4xl lg:text-8xl">Download <span
                         className="text-success">PowerNukkitX</span></h2>
-                    <p className="text-gray-400 text-2xl">Download PowerNukkitX, our Minecraft server software Bedrock,
-                        which implements an API for creating its own plugins </p>
+                    <p className="text-gray-400 text-2xl">Download PowerNukkitX, our Minecraft server software for Bedrock,
+                        which provides an API for creating your own plugins </p>
                 </div>
 
                 <div className="flex justify-center gap-x-4 mx-auto">
@@ -41,8 +41,8 @@ export default function Index() {
                         className="h-96 w-full hover:opacity-85 bg-manuel-bg bg-cover bg-center rounded-lg cursor-pointer ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 bg-content1 transition-all duration-200 ease-in-out hover:ring-2 hover:ring-offset-2 hover:ring-content2">
                         <Link href="/"
                               className="flex flex-col items-center justify-center h-full text-white">
-                            <h3 className="text-6xl tracking-tight font-bold text-success-400">Manuel</h3>
-                            <p className="text-white font-bold pt-64">Read the Manuel: Learn More</p>
+                            <h3 className="text-6xl tracking-tight font-bold text-success-400">Manual</h3>
+                            <p className="text-white font-bold pt-64">Read the Manual: Learn More</p>
                         </Link>
                     </div>
                     <div
